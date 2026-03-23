@@ -1,7 +1,7 @@
 # 未名脑脑 (Weiming Brain) · GitHub
 
 <p align="center">
-  <img src="https://www.brainwm.com/zh/images/logo.png" alt="未名脑脑Logo" width="200">
+  <img src="logo2.282773b.png" alt="未名脑脑Logo" width="200">
 </p>
 
 <p align="center">
